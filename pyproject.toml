@@ -8,6 +8,7 @@ homepage = "https://github.com/petarmaric/ar-slides"
 
 [tool.poetry.dependencies]
 python = "^3.6"
+sphinx = "3.0.3"
 
 [build-system]
 requires = ["poetry>=0.12"]
