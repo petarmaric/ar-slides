@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "ar-slides"
+version = "2019"
+description = "The Computer Architecture course presentation slides"
+license = "CC-BY-NC-SA-4.0"
+authors = ["Petar Marić <petarmaric@uns.ac.rs>"]
+homepage = "https://github.com/petarmaric/ar-slides"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
