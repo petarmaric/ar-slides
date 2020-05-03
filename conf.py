@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Arhitektura računara'
-copyright = '2020, Petar Marić'
 author = 'Petar Marić'
+copyright = '2020, ' + author
 
 
 # -- General configuration ---------------------------------------------------
