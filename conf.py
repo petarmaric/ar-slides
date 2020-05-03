@@ -19,7 +19,9 @@
 
 project = 'Arhitektura računara'
 author = 'Petar Marić'
-copyright = '2020, ' + author
+
+from datetime import date
+copyright = f'{date.today().year}, {author}'
 
 
 # -- General configuration ---------------------------------------------------
