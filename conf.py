@@ -53,6 +53,17 @@ exclude_patterns = [
     'TODO.rst',
 ]
 
+# A string of reStructuredText that will be included at the end of every source
+# file that is read.
+rst_epilog = """
+.. only:: builder_revealjs
+
+    Kraj dokumenta
+    ==============
+
+    Povratak na :doc:`početnu stranicu</index>`
+"""
+
 
 # -- Options for HTML output -------------------------------------------------
 
