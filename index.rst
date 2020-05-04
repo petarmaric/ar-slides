@@ -2,7 +2,8 @@ Arhitektura računara
 ====================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    uvod
+   evolucija-racunara/uvod
    LICENSE
