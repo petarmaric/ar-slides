@@ -7,4 +7,5 @@ Arhitektura računara
 
    uvod
    evolucija-racunara/uvod
+   evolucija-racunara/1950
    LICENSE
